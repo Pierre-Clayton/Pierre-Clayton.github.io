@@ -38,15 +38,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Engineering degree
+      institution: ENSAE - Institut Polytechnique de Paris
+      year: 2023-2025
+    - course: 1st year of the Master's degree in Applied Mathematics
+      institution: Sorbonne University
+      year: 2023-2024
+    - course: Double-degree in Mathematics and Economics
+      institution: Paris-Saclay University
+      year: 2020-2023
+    - course: BSc in Mathematics
+      institution: EPFL
+      year: 2018-2020
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -60,32 +63,32 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
-        icon: database
+        percent: 60
+        icon: c++
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Fishing
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: fishing_pole_and_fish
         icon_pack: fas
-      - name: Cats
+      - name: Table tennis
         description: ''
         percent: 100
-        icon: cat
+        icon: ping_pong
         icon_pack: fas
-      - name: Photography
+      - name: Boxing
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: boxing_glove
         icon_pack: fas
 
 # Social/Academic Networking
@@ -122,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Explore the world of Pierre Clayton, a Quantitative Finance Analyst and ENSAE student. Discover my professional journey, academic projects, and diverse skillset in finance, statistical analysis, and programming.
 {style="text-align: justify;"}
