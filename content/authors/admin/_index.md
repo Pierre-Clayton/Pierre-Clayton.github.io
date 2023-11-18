@@ -83,17 +83,17 @@ skills:
       - name: Fishing
         description: ''
         percent: 70
-        icon: :fishing_pole_and_fish:
+        icon: fishing_pole_and_fish
         icon_pack: fas
       - name: Table tennis
         description: ''
         percent: 100
-        icon: :ping_pong:
+        icon: ping_pong
         icon_pack: fas
       - name: Boxing
         description: ''
         percent: 80
-        icon: :boxing_glove:
+        icon: boxing_glove
         icon_pack: fas
 
 # Social/Academic Networking
