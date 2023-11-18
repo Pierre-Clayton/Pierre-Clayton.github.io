@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Pierre Clayton Universe # Website name
-baseURL: 'https://pierre-clayton-universe.com/' # Website URL
+title: Pierre Clayton # Website name
+baseURL: 'https://pierre-clayton.com/' # Website URL
 
 ############################
 ## LANGUAGE

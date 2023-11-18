@@ -71,6 +71,11 @@ skills:
         percent: 60
         icon: computer
         icon_pack: fas
+      - name: R
+        description: ''
+        percent: 80
+        icon: R
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -78,17 +83,17 @@ skills:
       - name: Fishing
         description: ''
         percent: 70
-        icon: fishing_pole_and_fish
+        icon: :fishing_pole_and_fish:
         icon_pack: fas
       - name: Table tennis
         description: ''
         percent: 100
-        icon: ping_pong
+        icon: :ping_pong:
         icon_pack: fas
       - name: Boxing
         description: ''
         percent: 80
-        icon: boxing_glove
+        icon: :boxing_glove:
         icon_pack: fas
 
 # Social/Academic Networking
@@ -99,31 +104,22 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Pierre-Clayton
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pierreclayton
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_CLAYTON_Pierre_EN.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Explore the world of Pierre Clayton, a Quantitative Finance Analyst and ENSAE student. Discover my professional journey, academic projects, and diverse skillset in finance, statistical analysis, and programming.
+Explore the world of Pierre Clayton, a 2nd year ENSAE student and 1st year in the applied mathematics master's degree of Sorbonne University. Discover my professional journey, academic projects, and diverse skillset in finance, statistical analysis, and programming.
 {style="text-align: justify;"}
