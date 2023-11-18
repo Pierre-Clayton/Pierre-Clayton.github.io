@@ -69,7 +69,7 @@ skills:
       - name: C++
         description: ''
         percent: 60
-        icon: c++
+        icon: computer
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
