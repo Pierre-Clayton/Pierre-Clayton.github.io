@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Pierre Clayton
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pierre
+last_name: Clayton
 
 # Status emoji
 status:
@@ -17,21 +17,23 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: 2nd year student at ENSAE & M1 student in applied mathematics at Sorbonne University
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ENSAE
+    url: https://www.ensae.fr/en
+  - name: Sorbonne University
+    url: https://sciences.sorbonne-universite.fr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include financial mathematics, data science and programmation.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Finance
+  - Mathematics
 
 # Education to show in About widget
 education:
