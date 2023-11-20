@@ -65,7 +65,7 @@ sections:
         - title: ALM Modeling Intern
           company: Le Conservateur
           company_url: 'https://www.conservateur.fr/'
-          company_logo: assets/media/icons/brands/Le_conservateur_logo.jpeg
+          company_logo: assets/media/icons/brands/Le_conservateur_logo
           location: Paris
           date_start: '2023-06-16'
           date_end: '2023-08-31'
