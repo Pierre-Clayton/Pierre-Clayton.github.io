@@ -71,11 +71,14 @@ sections:
           date_end: '2023-08-31'
           description: |2-
               • Main subject:
-                - Determination of the Vega for the Savings Portfolio.
+                
+                * Determination of the Vega for the Savings Portfolio.
 
               • Additional subjects:
-                - Development work on the performance management tool for Tontines (projection of assets).
-                - Kalman Filter.
+                
+                * Development work on the performance management tool for Tontines (projection of assets).
+
+                * Kalman Filter.
     design:
       columns: '2'
   - block: accomplishments
