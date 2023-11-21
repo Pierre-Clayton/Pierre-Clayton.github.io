@@ -5,8 +5,6 @@ math: true
 summary: Statistical analysis is essential in economics, guiding decisions through methods and case studies like the 2008 crisis and COVID-19. It faces challenges but offers opportunities with emerging technologies, significantly impacting economic policy and society.
 ---
 
-![png](intro.png)
-
 # Introduction
 
 Statistical analysis, a pivotal tool in the realm of economics, offers profound insights and guides essential policy decisions. My academic journey in economics, deeply intertwined with understanding and applying statistical methods, has allowed me to appreciate their significance in analyzing economic trends and patterns. This article delves into the fundamentals of statistical analysis in economics, examines its application through case studies, and discusses the challenges and emerging opportunities in this field.
