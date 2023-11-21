@@ -2,6 +2,7 @@
 title: Statistical Analysis in Modern-Day Economics
 date: 2023-11-21
 math: true
+summary: Statistical analysis is essential in economics, guiding decisions through methods and case studies like the 2008 crisis and COVID-19. It faces challenges but offers opportunities with emerging technologies, significantly impacting economic policy and society.
 ---
 
 ![png](intro.png)
