@@ -161,8 +161,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Data Science
+          tag: Data Science
+        - name: Finance
+          tag: Finance
+        - name: Economics
+          tag: Economics
         - name: Other
           tag: Demo
     design:
