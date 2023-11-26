@@ -1,7 +1,6 @@
 ---
 title: Hackathon - HR unbiased candidate selection model
-summary: Team 2ad's project introduces an innovative HR algorithm to reduce recruitment biases, combining data analysis with advanced machine learning for fair candidate selection. This solution promotes diversity, improves operational efficiency, and aligns with ethical recruitment standards, marking a significant advancement in inclusive HR practices.
-Team 2ad - Felix Djumene, Clement Destouesse, Avner El Baz, Thomas Chaigne.
+summary: Team 2ad's project introduces an innovative HR algorithm to reduce recruitment biases, combining data analysis with advanced machine learning for fair candidate selection. This solution promotes diversity, improves operational efficiency, and aligns with ethical recruitment standards, marking a significant advancement in inclusive HR practices. Team 2ad - Felix Djumene, Clement Destouesse, Avner El Baz, Thomas Chaigne.
 tags:
   - Data Science
 date: "2023-11-24"
