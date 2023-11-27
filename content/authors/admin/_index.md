@@ -95,6 +95,25 @@ skills:
         percent: 80
         icon: <:boxing_glove:>
         icon_pack: fas
+  - name: Languages
+    color: '#FF5733'
+    color_border: '#FE7051'
+    items:
+      - name: French
+        description: 'Native'
+        percent: 100
+        icon: <:France:>
+        icon_pack: fas
+      - name: English
+        description: 'Full professional proficiency'
+        percent: 95
+        icon: <:England:>
+        icon_pack: fas
+      - name: Russian
+        description: 'Limited professional proficiency'
+        percent: 50
+        icon: <:Russia:>
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
