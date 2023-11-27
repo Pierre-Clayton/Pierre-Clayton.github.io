@@ -49,7 +49,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '3'
+      columns: '4'
   - block: experience
     content:
       title: Experience
@@ -204,14 +204,6 @@ sections:
       phone: +33 7 45 14 06 63
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
