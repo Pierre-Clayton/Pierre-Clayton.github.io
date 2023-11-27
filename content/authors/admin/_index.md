@@ -84,17 +84,17 @@ skills:
         description: ''
         percent: 70
         icon: <:fishing_pole_and_fish:>
-        icon_pack: fas
+        icon_pack: emoji
       - name: Table tennis
         description: ''
         percent: 100
         icon: <:ping_pong:>
-        icon_pack: fas
+        icon_pack: emoji
       - name: Boxing
         description: ''
         percent: 80
         icon: <:boxing_glove:>
-        icon_pack: fas
+        icon_pack: emoji
   - name: Languages
     color: '#FF5733'
     color_border: '#FE7051'
@@ -102,18 +102,18 @@ skills:
       - name: French
         description: 'Native'
         percent: 100
-        icon: <:France:>
-        icon_pack: fas
+        icon: <:fr:>
+        icon_pack: emoji
       - name: English
         description: 'Full professional proficiency'
         percent: 95
-        icon: <:England:>
-        icon_pack: fas
+        icon: <:uk:>
+        icon_pack: emoji
       - name: Russian
         description: 'Limited professional proficiency'
         percent: 50
-        icon: <:Russia:>
-        icon_pack: fas
+        icon: <:ru:>
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
