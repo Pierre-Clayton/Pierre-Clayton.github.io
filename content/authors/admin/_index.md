@@ -83,17 +83,17 @@ skills:
       - name: Fishing
         description: ''
         percent: 70
-        icon: <:fishing_pole_and_fish:>
+        icon: ':fishing_pole_and_fish:'
         icon_pack: emoji
       - name: Table tennis
         description: ''
         percent: 100
-        icon: <:ping_pong:>
+        icon: ':ping_pong:'
         icon_pack: emoji
       - name: Boxing
         description: ''
         percent: 80
-        icon: <:boxing_glove:>
+        icon: ':boxing_glove:'
         icon_pack: emoji
   - name: Languages
     color: '#FF5733'
@@ -102,17 +102,17 @@ skills:
       - name: French
         description: 'Native'
         percent: 100
-        icon: <:fr:>
+        icon: ':fr:'
         icon_pack: emoji
       - name: English
         description: 'Full professional proficiency'
         percent: 95
-        icon: <:uk:>
+        icon: ':uk:'
         icon_pack: emoji
       - name: Russian
         description: 'Limited professional proficiency'
         percent: 50
-        icon: <:ru:>
+        icon: ':ru:'
         icon_pack: emoji
 
 # Social/Academic Networking
