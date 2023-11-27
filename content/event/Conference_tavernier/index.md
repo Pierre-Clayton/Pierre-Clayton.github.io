@@ -1,7 +1,7 @@
 ---
-title: Attended Conference
+title: Jean-Luc Tavernier Conference (Director of INSEE)
 
-event: Jean-Luc Tavernier (Director of INSEE)
+event: Jean-Luc Tavernier Conference (Director of INSEE)
 event_url: ''
 
 location: ENSAE

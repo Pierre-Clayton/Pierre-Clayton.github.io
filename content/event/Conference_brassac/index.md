@@ -1,5 +1,5 @@
 ---
-title: Attended Conference
+title: Philippe Brassac Conference (CEO of Crédit Agricole)
 
 event: Philippe Brassac Conference (CEO of Crédit Agricole)
 event_url: ''
